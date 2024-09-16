@@ -13,6 +13,7 @@ sites:
     url: $SECRET_SITE
     expectedStatusCodes:
       - 400
+    ico: https://rocketscience-it.nl/images/logos/adguardhomeremote.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
