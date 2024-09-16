@@ -11,6 +11,8 @@ sites:
     url: https://unifi.ui.com
   - name: DNS
     url: $SECRET_SITE
+    expectedStatusCodes:
+      - 400
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
