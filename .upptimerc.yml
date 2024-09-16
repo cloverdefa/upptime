@@ -19,6 +19,7 @@ sites:
     url: https://doh.futa.gg/dns-query
     expectedStatusCodes:
       - 400
+    icon: https://rocketscience-it.nl/images/logos/adguardhomeremote.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
