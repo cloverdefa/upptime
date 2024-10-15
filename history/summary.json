@@ -58,18 +58,20 @@
     "url": "$SECRET_SITE",
     "icon": "https://rocketscience-it.nl/images/logos/adguardhomeremote.svg",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 708,
-    "timeWeek": 674,
-    "timeMonth": 675,
-    "timeYear": 675,
-    "dailyMinutesDown": {}
+    "time": 684,
+    "timeDay": 882,
+    "timeWeek": 721,
+    "timeMonth": 684,
+    "timeYear": 684,
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "Futa DoH",
