@@ -22,19 +22,19 @@
     "url": "https://blog.dast.tw",
     "icon": "https://cdn-icons-png.flaticon.com/128/59/59137.png",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 110,
-    "timeWeek": 134,
-    "timeMonth": 221,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 208,
+    "timeDay": 111,
+    "timeWeek": 131,
+    "timeMonth": 218,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 5
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://rocketscience-it.nl/images/logos/adguardhomeremote.svg",
     "slug": "dns",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 677,
     "timeDay": 400,
     "timeWeek": 683,
     "timeMonth": 686,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 5
     }
   },
   {
