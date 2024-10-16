@@ -22,18 +22,20 @@
     "url": "https://blog.dast.tw",
     "icon": "https://cdn-icons-png.flaticon.com/128/59/59137.png",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 111,
-    "timeWeek": 131,
-    "timeMonth": 218,
-    "timeYear": 208,
-    "dailyMinutesDown": {}
+    "time": 212,
+    "timeDay": 178,
+    "timeWeek": 156,
+    "timeMonth": 223,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Unifi",
@@ -58,19 +60,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://rocketscience-it.nl/images/logos/adguardhomeremote.svg",
     "slug": "dns",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 678,
-    "timeDay": 506,
-    "timeWeek": 686,
-    "timeMonth": 687,
-    "timeYear": 678,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 666,
+    "timeDay": 416,
+    "timeWeek": 641,
+    "timeMonth": 672,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2024-10-16": 11
+      "2024-10-16": 0
     }
   },
   {
