@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 170,
-    "timeWeek": 150,
-    "timeMonth": 121,
-    "timeYear": 115,
+    "time": 116,
+    "timeDay": 168,
+    "timeWeek": 159,
+    "timeMonth": 120,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://cdn-icons-png.flaticon.com/128/59/59137.png",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 220,
-    "timeDay": 254,
-    "timeWeek": 193,
-    "timeMonth": 232,
-    "timeYear": 220,
-    "dailyMinutesDown": {
-      "2024-10-16": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 218,
+    "timeDay": 253,
+    "timeWeek": 176,
+    "timeMonth": 213,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Unifi",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 465,
-    "timeWeek": 360,
-    "timeMonth": 470,
-    "timeYear": 419,
+    "time": 422,
+    "timeDay": 539,
+    "timeWeek": 400,
+    "timeMonth": 482,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +59,17 @@
     "icon": "https://rocketscience-it.nl/images/logos/adguardhomeremote.svg",
     "slug": "dns",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 664,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 665,
     "timeDay": 446,
-    "timeWeek": 635,
-    "timeMonth": 669,
-    "timeYear": 664,
-    "dailyMinutesDown": {
-      "2024-10-16": 6
-    }
+    "timeWeek": 645,
+    "timeMonth": 672,
+    "timeYear": 665,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Futa DoH",
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 1129,
-    "timeWeek": 778,
-    "timeMonth": 796,
-    "timeYear": 795,
+    "time": 802,
+    "timeDay": 1017,
+    "timeWeek": 835,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {}
   }
 ]
