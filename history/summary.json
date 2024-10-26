@@ -22,18 +22,20 @@
     "url": "https://blog.dast.tw",
     "icon": "https://cdn-icons-png.flaticon.com/128/59/59137.png",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 100,
-    "timeWeek": 181,
-    "timeMonth": 170,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 106,
+    "timeWeek": 172,
+    "timeMonth": 169,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   },
   {
     "name": "Unifi",
@@ -58,18 +60,20 @@
     "url": "$SECRET_SITE",
     "icon": "https://rocketscience-it.nl/images/logos/adguardhomeremote.svg",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 696,
-    "timeWeek": 781,
-    "timeMonth": 677,
-    "timeYear": 669,
-    "dailyMinutesDown": {}
+    "time": 659,
+    "timeDay": 405,
+    "timeWeek": 697,
+    "timeMonth": 662,
+    "timeYear": 659,
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   },
   {
     "name": "Futa DoH",
