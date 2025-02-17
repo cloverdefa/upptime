@@ -1,7 +1,7 @@
 url: https://doh.futa.gg/dns-query
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-17T18:21:48.957Z
+status: up
+code: 400
+responseTime: 843
+lastUpdated: 2025-02-17T18:37:47.727Z
 startTime: 2024-09-16T16:46:16.314Z
 generator: Upptime <https://github.com/upptime/upptime>
