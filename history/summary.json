@@ -86,9 +86,9 @@
     "url": "https://doh.futa.gg/dns-query",
     "icon": "https://rocketscience-it.nl/images/logos/adguardhomeremote.svg",
     "slug": "futa-do-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,6 +97,8 @@
     "timeWeek": 875,
     "timeMonth": 791,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   }
 ]
